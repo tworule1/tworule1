@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Tuğrul Sağlam — Solution Architecture, Software Engineering and AI</title>
+<desc id="desc">A dark terminal window introducing tworule1: solution architecture, software engineering, and AI tools and Flutter mobile apps for everyday tasks.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#17252a" stroke-width="1"/></pattern><linearGradient id="fade" x2="1" y2="1"><stop stop-color="#101e22"/><stop offset="1" stop-color="#080e13"/></linearGradient></defs>
+<rect width="1200" height="420" rx="18" fill="#080e13"/>
+<rect x="1" y="1" width="1198" height="418" rx="18" fill="url(#fade)" stroke="#263b41"/>
+<rect x="780" y="50" width="418" height="368" fill="url(#grid)"/>
+<path d="M0 49H1200" stroke="#263b41"/>
+<g><circle cx="27" cy="25" r="6" fill="#ff615a"/><circle cx="49" cy="25" r="6" fill="#ffbd2e"/><circle cx="71" cy="25" r="6" fill="#28c840"/></g>
+<g font-family="Consolas, 'Courier New', monospace">
+<text x="600" y="30" text-anchor="middle" fill="#83999f" font-size="13">tworule1 / README.md</text>
+<text x="52" y="100" fill="#64f4ab" font-size="17">tworule1@github<tspan fill="#8c9da7">:~$</tspan><tspan fill="#e4edf2"> whoami</tspan></text>
+<text x="49" y="169" fill="#f1f7fa" font-size="54" font-weight="700">Tuğrul Sağlam<tspan fill="#64f4ab">_</tspan></text>
+<text x="52" y="210" fill="#9eb1bd" font-size="18">Solution Architecture <tspan fill="#64f4ab">/</tspan> Software Engineering <tspan fill="#64f4ab">/</tspan> AI</text>
+<text x="52" y="257" fill="#718792" font-size="16">// Designing AI tools &amp; mobile apps for everyday tasks.</text>
+<rect x="52" y="291" width="92" height="33" rx="5" fill="#12342b" stroke="#285748"/>
+<text x="98" y="313" text-anchor="middle" fill="#80efb8" font-size="15">.NET</text>
+<rect x="157" y="291" width="108" height="33" rx="5" fill="#132a36" stroke="#284d61"/>
+<text x="211" y="313" text-anchor="middle" fill="#88d5f1" font-size="15">Python</text>
+<rect x="278" y="291" width="114" height="33" rx="5" fill="#102e3b" stroke="#23536a"/>
+<text x="335" y="313" text-anchor="middle" fill="#71d5fa" font-size="15">Flutter</text>
+<rect x="405" y="291" width="74" height="33" rx="5" fill="#22243b" stroke="#414365"/>
+<text x="442" y="313" text-anchor="middle" fill="#b8b4ff" font-size="15">AI</text>
+<text x="52" y="381" fill="#607783" font-size="13">BILKENT UNIVERSITY <tspan fill="#314d57"> / </tspan> COMPUTER ENGINEERING</text>
+<text x="1062" y="190" text-anchor="middle" fill="#1d4a3e" font-size="95" font-weight="700">&gt;_</text>
+<path d="M902 237H1125" stroke="#25483f"/>
+<text x="1013" y="266" text-anchor="middle" fill="#557b70" font-size="13">DESIGN. CONNECT. SIMPLIFY.</text>
+</g></svg>
+
+
