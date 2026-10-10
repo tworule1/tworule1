@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1260" viewBox="0 0 1200 1260" role="img" aria-labelledby="title desc">
+<title id="title">Tuğrul Sağlam | Solution Architecture, Software Engineering and AI</title>
+<desc id="desc">I design AI tools and Flutter mobile applications that make everyday tasks easier. My stack is .NET, Python and Flutter. Computer Engineering graduate of Bilkent University.</desc>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#20313d" stroke-width="1"/></pattern>
+<radialGradient id="glow"><stop stop-color="#164f43" stop-opacity=".6"/><stop offset="1" stop-color="#0a1018" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="1260" rx="20" fill="#0a1018"/>
+<rect x="1" y="1" width="1198" height="1258" rx="20" fill="none" stroke="#263442"/>
+<rect x="660" y="62" width="538" height="470" fill="url(#grid)" opacity=".4"/>
+<ellipse cx="1000" cy="290" rx="350" ry="300" fill="url(#glow)"/>
+<path d="M1 62H1199" stroke="#253440"/>
+<circle cx="30" cy="31" r="7" fill="#ff605a"/><circle cx="55" cy="31" r="7" fill="#ffbd2e"/><circle cx="80" cy="31" r="7" fill="#28c840"/>
+<g font-family="Consolas, 'Courier New', monospace">
+<text x="600" y="38" text-anchor="middle" fill="#8b9fac" font-size="17">tworule1 / personal.workspace</text>
+<text x="62" y="120" fill="#67f5b2" font-size="21">~/tworule1 <tspan fill="#718897">$ whoami</tspan></text>
+<text x="57" y="214" fill="#f2f7fb" font-size="78" font-weight="700">Tuğrul Sağlam<tspan fill="#67f5b2">_</tspan></text>
+<text x="62" y="275" fill="#67f5b2" font-size="31" font-weight="700">Solution Architecture</text>
+<text x="62" y="316" fill="#9eb2c1" font-size="25">Software Engineering <tspan fill="#435e6f">/</tspan> Artificial Intelligence</text>
+<text x="62" y="379" fill="#edf3f7" font-size="26">Everyday problems. Thoughtful solutions.</text>
+<text x="62" y="423" fill="#a6b7c5" font-size="22">I design AI tools and mobile apps that make</text>
+<text x="62" y="456" fill="#a6b7c5" font-size="22">everyday tasks easier.</text>
+<text x="1022" y="391" text-anchor="middle" fill="#4df4b0" opacity=".4" font-size="96" font-weight="700">&gt;_</text>
+<path d="M62 514H1138" stroke="#263442"/>
+<text x="62" y="561" fill="#67f5b2" font-size="18">01 / HOW I THINK</text>
+<text x="62" y="609" fill="#eff5fa" font-size="31" font-weight="700">From the user need to the system behind it.</text>
+<text x="62" y="650" fill="#a6b7c5" font-size="21">Connecting user experience, application logic and AI capabilities.</text>
+<g fill="#101c27" stroke="#293d4b">
+<rect x="62" y="686" width="288" height="66" rx="9"/><rect x="456" y="686" width="288" height="66" rx="9"/><rect x="850" y="686" width="288" height="66" rx="9"/>
+</g>
+<g fill="#d6e7f1" font-size="20" text-anchor="middle"><text x="206" y="727">USER EXPERIENCE</text><text x="600" y="727">APPLICATION LOGIC</text><text x="994" y="727">AI CAPABILITIES</text></g>
+<g stroke="#67f5b2" stroke-width="2" fill="none"><path d="M366 719H438m-8-7 8 7-8 7"/><path d="M760 719H832m-8-7 8 7-8 7"/></g>
+<text x="62" y="813" fill="#67f5b2" font-size="18">02 / WHAT I DESIGN</text>
+<rect x="62" y="842" width="523" height="166" rx="12" fill="#101a25" stroke="#263a49"/>
+<rect x="611" y="842" width="527" height="166" rx="12" fill="#101a25" stroke="#263a49"/>
+<text x="89" y="887" fill="#edf5fa" font-size="25" font-weight="700">AI FOR EVERYDAY LIFE</text>
+<text x="89" y="934" fill="#a6b7c5" font-size="21">Practical tools that simplify</text><text x="89" y="966" fill="#a6b7c5" font-size="21">everyday workflows.</text>
+<text x="638" y="887" fill="#edf5fa" font-size="25" font-weight="700">MOBILE EXPERIENCES</text>
+<text x="638" y="934" fill="#a6b7c5" font-size="21">Flutter apps that bring useful</text><text x="638" y="966" fill="#a6b7c5" font-size="21">AI tools into daily life.</text>
+<text x="62" y="1066" fill="#67f5b2" font-size="18">03 / CORE STACK</text>
+<rect x="62" y="1093" width="155" height="55" rx="8" fill="#292143" stroke="#514275"/>
+<rect x="233" y="1093" width="175" height="55" rx="8" fill="#172c40" stroke="#345672"/>
+<rect x="424" y="1093" width="180" height="55" rx="8" fill="#123442" stroke="#286179"/>
+<g font-size="25" text-anchor="middle" font-weight="700"><text x="140" y="1129" fill="#d0bbff">.NET</text><text x="320" y="1129" fill="#9dccf5">Python</text><text x="514" y="1129" fill="#7de0ff">Flutter</text></g>
+<path d="M62 1182H1138" stroke="#263442"/>
+<text x="62" y="1225" fill="#8ea3b2" font-size="18">Bilkent University <tspan fill="#405969">/</tspan> Computer Engineering</text>
+<text x="1138" y="1225" text-anchor="end" fill="#67f5b2" font-size="18">@tworule1</text>
+</g></svg>
